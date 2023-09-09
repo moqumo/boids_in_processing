@@ -14,7 +14,7 @@ boidsモデルとはクレイグ・レイノルズによって考案された、
 
 ## フォルダ構成
 root/    
-　┣src/    
-　┃└boids(boidsモデル)    
-　┗examples/    
- 　　└predators_preys(捕食者-被捕食者のシミュレーション)    
+　┣examples/    
+　┃└predators_preys(捕食者-被捕食者のシミュレーション)    
+　┗src/   
+ 　　└boids(boidsモデル)        
