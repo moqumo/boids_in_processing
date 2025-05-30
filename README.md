@@ -9,13 +9,13 @@ boidsモデルとはクレイグ・レイノルズによって考案された、
 <img width = 720 src="https://github.com/moqumo/boids_in_processing/assets/111856739/139cc33c-22a5-4f6c-8a31-76c747a28615"></img>
 
 ## examples
-- predators_preys(捕食者-被捕食者のシミュレーション)    
+- predators_preys(捕食者-被食者のシミュレーション)    
    ![predators_preys](https://github.com/moqumo/boids_in_processing/assets/111856739/739ea180-78a5-4549-a83e-e0b0d20f54b7)
 
 ## フォルダ構成
 root/   
 ├── examples/   
 │   ├── boids_visualized  :[PShapeTrace](https://github.com/fun-se/PShapeTrace/tree/main)を用いた可視化   
-│   └── predators_preys   :捕食者-被捕食者のシミュレーション   
+│   └── predators_preys   :捕食者-被食者のシミュレーション   
 └── src/   
     └── boids              :boidsモデル   
